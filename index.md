@@ -22,6 +22,7 @@ Combinations of these, as well as **age-related** limitations or **temporary** i
 ## My personal recommendation to learn about accessibility at the beginning
 - Read the [ADG* Accessibility Developer Guide](https://www.accessibility-developer-guide.com/) to get started <br>
 
+
 ### Remember
 - Use semantic HTML
 - ARIA-Rule #1: Don’t use ARIA, use native HTML instead (cited from [deque Blog](https://www.deque.com/blog/top-5-rules-of-aria/#:~:text=Rule%20%231%3A%20Don't,in%20HTML%2C%20then%20use%20ARIA.), 24.04.22)
@@ -61,6 +62,7 @@ Combinations of these, as well as **age-related** limitations or **temporary** i
 - Tools List [https://www.w3.org/WAI/ER/tools/](https://www.w3.org/WAI/ER/tools/)
 - WAI-Aria Web Accessibility Initiative – Accessible Rich Internet Applications [https://www.w3.org/TR/wai-aria/](https://www.w3.org/TR/wai-aria/)
 
+
 ## Swiss resources
 
 Big contributors
@@ -80,6 +82,7 @@ Big contributors
 - mdn web docs about accessibility [https://developer.mozilla.org/en-US/docs/Web/Accessibility](https://developer.mozilla.org/en-US/docs/Web/Accessibility) 
 - German accessibility test tools list / Werkzeugliste der deutschen **B**arrierefreie-**I**nformations**t**echnik-**V**erordnung (BITV) [https://www.bitvtest.de/bitv_test/das_testverfahren_im_detail/werkzeugliste.html](https://www.bitvtest.de/bitv_test/das_testverfahren_im_detail/werkzeugliste.html)
 - WebAIM Quickref about Web Accessibility Principles [https://webaim.org/resources/quickref/](https://webaim.org/resources/quickref/) 
+
 
 
 <br><br>
