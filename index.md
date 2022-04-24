@@ -21,6 +21,7 @@ Combinations of these, as well as **age-related** limitations or **temporary** i
 
 ## My personal recommendation to learn about accessibility at the beginning
 - Read the [ADG* Accessibility Developer Guide](https://www.accessibility-developer-guide.com/) to get started <br>
+- Use [Lighthouse](https://developers.google.com/web/tools/lighthouse) in Chrome DevTools (read the ADG* for other options)
 
 
 ### Remember
