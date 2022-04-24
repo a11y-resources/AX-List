@@ -75,7 +75,7 @@ Big contributors
 
 ### Swiss Accessibility-Checklist
 - Overview and status of the checklist on the website of [Access for All](https://www.access-for-all.ch/ch/barrierefreiheit/barrierefreies-webdesign/accessibility-checkliste-2-1.html)
-- Schweizer Accessibility-Checklist 2.1 [https://a11y.digitaldialog.swiss/](https://a11y.digitaldialog.swiss/) (*Vorabversion/Alpha) 
+- Schweizer Accessibility-Checklist 2.1 (*Vorabversion/Alpha) [https://a11y.digitaldialog.swiss/](https://a11y.digitaldialog.swiss/)  
 - Accessibility Checklist 2.0 [https://www.accessibility-checklist.ch/](https://www.accessibility-checklist.ch/) (*Content last updated 19.06.2010) 
 
 ## Great international resources about accessibility
