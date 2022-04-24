@@ -19,6 +19,15 @@ Combinations of these, as well as **age-related** limitations or **temporary** i
 
 <br>
 
+## My personal recommendation for getting started in AX
+- Use semantic HTML
+- Read the ADG* Accessibility Developer Guide https://www.accessibility-developer-guide.com/ to get started
+- ARIA-Rule #1: Don’t use ARIA, use native HTML instead (cited from [deque Blog](https://www.deque.com/blog/top-5-rules-of-aria/#:~:text=Rule%20%231%3A%20Don't,in%20HTML%2C%20then%20use%20ARIA.), 24.04.22)
+- Make sure your content is accessible with keyboard only
+
+
+<br>
+
 
 ## WCAG Web Content Accessibility Guidelines: Version History
 
@@ -51,7 +60,7 @@ ___
 - WAI-Aria Web Accessibility Initiative – Accessible Rich Internet Applications https://www.w3.org/TR/wai-aria/
 
 ## Swiss resources (Big contributor: <a href="https://www.access-for-all.ch/ch/">Access for All | Zugang für alle</a> ): 
-- eCH-0059 Schweizer Accessibility Standard http://ech.ch/de/standards/60476 
+- Official: eCH-0059 Schweizer Accessibility Standard http://ech.ch/de/standards/60476 
 - ADG* Accessibility Developer Guide https://www.accessibility-developer-guide.com/ 
 
 ### Swiss Accessibility-Checklist
@@ -61,7 +70,7 @@ ___
 
 ## Other helpful resources
 - mdn web docs about accessibility https://developer.mozilla.org/en-US/docs/Web/Accessibility 
-- Tools list / Werkzeugliste der deutschen Barrierefreie-Informationstechnik-Verordnung (BITV) https://www.bitvtest.de/bitv_test/das_testverfahren_im_detail/werkzeugliste.html 
+- German accessibility test tools list / Werkzeugliste der deutschen **B**arrierefreie-**I**nformations**t**echnik-**V**erordnung (BITV) https://www.bitvtest.de/bitv_test/das_testverfahren_im_detail/werkzeugliste.html 
 - WebAIM Quickref about Web Accessibility Principles https://webaim.org/resources/quickref/ 
 
 
