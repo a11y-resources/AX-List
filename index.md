@@ -13,7 +13,7 @@ Combinations of these, as well as **age-related** limitations or **temporary** i
 
 # Resources mentioned in my survey:
 
-(Resources with a * and comment indicate either that the ressource is not yet in it's final version or that is is quite old.)
+(Resources with * and comment indicate either that the ressource is not yet in it's final version or that is is quite old.)
 
 ## WCAG Web Content Accessibility Guidelines 
 - Main page https://www.w3.org/WAI/ 
@@ -35,8 +35,8 @@ Combinations of these, as well as **age-related** limitations or **temporary** i
 - Swiss Accessibility Checklist 2.0 https://www.accessibility-checklist.ch/ (*Content last updated 19.06.2010) 
 
 ## Other helpful resources
-- mdn web docs about accessibility https://developer.mozilla.org/en-US/docs/Web/Accessibility Link 
-- Tools list / Werkzeugliste der deutschen Barrierefreie-Informationstechnik-Verordnung (BITV) https://www.bitvtest.de/bitv_test/das_testverfahren_im_detail/werkzeugliste.html Link 
+- mdn web docs about accessibility https://developer.mozilla.org/en-US/docs/Web/Accessibility 
+- Tools list / Werkzeugliste der deutschen Barrierefreie-Informationstechnik-Verordnung (BITV) https://www.bitvtest.de/bitv_test/das_testverfahren_im_detail/werkzeugliste.html 
 
 
 <br><br>
