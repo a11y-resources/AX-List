@@ -6,13 +6,14 @@ body {
   color: black;
   font-size: 15px;
 }
+a:hover, a:focus {
+    font-weight: normal;
+    text-decoration-line: underline;
+}
 a small {
     color: black;
 }
 a {
     color: #0d69b7;
 }
-a:focus {
-    text-decoration-line: underline;
-    font-weight: normal;
-}
+
