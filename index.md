@@ -20,7 +20,7 @@ Combinations of these, as well as **age-related** limitations or **temporary** i
 <br>
 
 ## My personal recommendation to learn about accessibility at the beginning
-- Read the ADG* Accessibility Developer Guide https://www.accessibility-developer-guide.com/ to get started <br>
+- Read the [ADG* Accessibility Developer Guide](https://www.accessibility-developer-guide.com/) to get started <br>
 
 ### Remember
 - Use semantic HTML
