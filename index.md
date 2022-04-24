@@ -45,7 +45,7 @@ Combinations of these, as well as **age-related** limitations or **temporary** i
 <br><br>
 ___
 
-# Resources mentioned in my survey and some more:
+# Resources mentioned in my survey and some more
 
 (Resources with * and comment indicate either that the ressource is not yet in it's final version or that is is quite old.)
 
@@ -59,7 +59,7 @@ ___
 - Tools List https://www.w3.org/WAI/ER/tools/
 - WAI-Aria Web Accessibility Initiative – Accessible Rich Internet Applications https://www.w3.org/TR/wai-aria/
 
-## Swiss resources (Big contributor: <a href="https://www.access-for-all.ch/ch/">Access for All | Zugang für alle</a> ): 
+## Swiss resources (Big contributor: <a href="https://www.access-for-all.ch/ch/">Access for All | Zugang für alle</a> )
 - Official: eCH-0059 Schweizer Accessibility Standard http://ech.ch/de/standards/60476 
 - ADG* Accessibility Developer Guide https://www.accessibility-developer-guide.com/ 
 
