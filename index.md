@@ -1,4 +1,4 @@
-# Accessibility (AX) A11y in a nutshell
+# Accessibility AX A11y in a nutshell
 Barrier-free web content is accessible to people with disabilities. Accessibility involves a wide range of disabilities:
 - visual
 - auditory
