@@ -66,7 +66,7 @@ Combinations of these, as well as **age-related** limitations or **temporary** i
 ## Swiss resources
 
 Big contributors
-- [Access for All | Zugang für alle](https://www.access-for-all.ch/ch/)
+- [Access for All / Zugang für alle](https://www.access-for-all.ch/ch/)
 - Eidgenössische Büro für die Gleichstellung von Menschen mit Behinderungen EBGB: [E-Accessibility](https://www.edi.admin.ch/edi/de/home/fachstellen/ebgb/themen-der-gleichstellung/e-accessibility-.html)
 
 ### General Information
@@ -87,4 +87,5 @@ Big contributors
 
 <br><br>
 ___
+<br><br>
 This page will be a work in progress until end of August 2022. (Afterwards it will have "Last updated: DATE" when I add a new helpful ressource.)
