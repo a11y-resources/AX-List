@@ -20,7 +20,8 @@ Combinations of these, as well as **age-related** limitations or **temporary** i
 <br>
 
 ## My personal recommendation to learn about accessibility at the beginning
-- Read the ADG* Accessibility Developer Guide https://www.accessibility-developer-guide.com/ to get started <br>
+- Read the [ADG* Accessibility Developer Guide](https://www.accessibility-developer-guide.com/) to get started <br>
+
 
 ### Remember
 - Use semantic HTML
@@ -45,41 +46,43 @@ Combinations of these, as well as **age-related** limitations or **temporary** i
 
 
 <br><br>
-___
+
 
 # Resources mentioned in my survey and some more
 
 (Resources with * and comment indicate either that the ressource is not yet in it's final version or that is is quite old.)
 
 ## WCAG Web Content Accessibility Guidelines 
-- Main page https://www.w3.org/WAI/ 
-- Overview https://www.w3.org/WAI/standards-guidelines/wcag/ 
-- Quickref https://www.w3.org/WAI/WCAG21/quickref/
-- Easy Checks – A First Review of Web Accessibility https://www.w3.org/WAI/test-evaluate/preliminary/
-- Tutorials https://www.w3.org/WAI/tutorials/
-- Accessibility Statement Generator https://www.w3.org/WAI/planning/statements/generator/#create
-- Tools List https://www.w3.org/WAI/ER/tools/
-- WAI-Aria Web Accessibility Initiative – Accessible Rich Internet Applications https://www.w3.org/TR/wai-aria/
+- Main page [https://www.w3.org/WAI/](https://www.w3.org/WAI/) 
+- Overview [https://www.w3.org/WAI/standards-guidelines/wcag/](https://www.w3.org/WAI/standards-guidelines/wcag/) 
+- Quickref [https://www.w3.org/WAI/WCAG21/quickref/](https://www.w3.org/WAI/WCAG21/quickref/)
+- Easy Checks – A First Review of Web Accessibility [https://www.w3.org/WAI/test-evaluate/preliminary/](https://www.w3.org/WAI/test-evaluate/preliminary/)
+- Tutorials [https://www.w3.org/WAI/tutorials/](https://www.w3.org/WAI/tutorials/)
+- Accessibility Statement Generator [https://www.w3.org/WAI/planning/statements/generator/#create](https://www.w3.org/WAI/planning/statements/generator/#create)
+- Tools List [https://www.w3.org/WAI/ER/tools/](https://www.w3.org/WAI/ER/tools/)
+- WAI-Aria Web Accessibility Initiative – Accessible Rich Internet Applications [https://www.w3.org/TR/wai-aria/](https://www.w3.org/TR/wai-aria/)
+
 
 ## Swiss resources
 
 Big contributors
 - [Access for All | Zugang für alle](https://www.access-for-all.ch/ch/)
-- [Eidgenössische Büro für die Gleichstellung von Menschen mit Behinderungen EBGB: E-Accessibility](https://www.edi.admin.ch/edi/de/home/fachstellen/ebgb/themen-der-gleichstellung/e-accessibility-.html)
+- Eidgenössische Büro für die Gleichstellung von Menschen mit Behinderungen EBGB: [E-Accessibility](https://www.edi.admin.ch/edi/de/home/fachstellen/ebgb/themen-der-gleichstellung/e-accessibility-.html)
 
 ### General Information
-- Official: eCH-0059 Schweizer Accessibility Standard http://ech.ch/de/standards/60476 
-- ADG* Accessibility Developer Guide https://www.accessibility-developer-guide.com/ 
+- Official: eCH-0059 Schweizer Accessibility Standard [http://ech.ch/de/standards/60476](http://ech.ch/de/standards/60476)
+- ADG* Accessibility Developer Guide [https://www.accessibility-developer-guide.com/](https://www.accessibility-developer-guide.com/) 
 
 ### Swiss Accessibility-Checklist
 - Overview and status of the checklist on the website of [Access for All](https://www.access-for-all.ch/ch/barrierefreiheit/barrierefreies-webdesign/accessibility-checkliste-2-1.html)
-- Schweizer Accessibility-Checklist 2.1 https://a11y.digitaldialog.swiss/ (*Vorabversion/Alpha) 
-- Accessibility Checklist 2.0 https://www.accessibility-checklist.ch/ (*Content last updated 19.06.2010) 
+- Schweizer Accessibility-Checklist 2.1 [https://a11y.digitaldialog.swiss/](https://a11y.digitaldialog.swiss/) (*Vorabversion/Alpha) 
+- Accessibility Checklist 2.0 [https://www.accessibility-checklist.ch/](https://www.accessibility-checklist.ch/) (*Content last updated 19.06.2010) 
 
 ## Great international resources about accessibility
-- mdn web docs about accessibility https://developer.mozilla.org/en-US/docs/Web/Accessibility 
-- German accessibility test tools list / Werkzeugliste der deutschen **B**arrierefreie-**I**nformations**t**echnik-**V**erordnung (BITV) https://www.bitvtest.de/bitv_test/das_testverfahren_im_detail/werkzeugliste.html 
-- WebAIM Quickref about Web Accessibility Principles https://webaim.org/resources/quickref/ 
+- mdn web docs about accessibility [https://developer.mozilla.org/en-US/docs/Web/Accessibility](https://developer.mozilla.org/en-US/docs/Web/Accessibility) 
+- German accessibility test tools list / Werkzeugliste der deutschen **B**arrierefreie-**I**nformations**t**echnik-**V**erordnung (BITV) [https://www.bitvtest.de/bitv_test/das_testverfahren_im_detail/werkzeugliste.html](https://www.bitvtest.de/bitv_test/das_testverfahren_im_detail/werkzeugliste.html)
+- WebAIM Quickref about Web Accessibility Principles [https://webaim.org/resources/quickref/](https://webaim.org/resources/quickref/) 
+
 
 
 <br><br>
