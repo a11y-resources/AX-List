@@ -23,7 +23,7 @@ Combinations of these, as well as **age-related** limitations or **temporary** i
 - Use semantic HTML
 - Read the ADG* Accessibility Developer Guide https://www.accessibility-developer-guide.com/ to get started
 - ARIA-Rule #1: Don’t use ARIA, use native HTML instead (cited from [deque Blog](https://www.deque.com/blog/top-5-rules-of-aria/#:~:text=Rule%20%231%3A%20Don't,in%20HTML%2C%20then%20use%20ARIA.), 24.04.22)
-- Make sure your content is accessible with keyboard only
+- Make sure your content is accessible via keyboard
 
 
 <br>
