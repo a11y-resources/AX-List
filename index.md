@@ -39,7 +39,7 @@ Combinations of these, as well as **age-related** limitations or **temporary** i
 |                 | WCAG 2.2     | May 2021      | Draft   | [W3C Working Draft WCAG 2.2](https://www.w3.org/TR/WCAG22/)                                                                                               |  
 | **recommended** | **WCAG 2.1** | **June 2018** | Current | [WCAG 2.1](https://www.w3.org/TR/WCAG21/)     |
 |                 | WCAG 2.0     | December 2008 | Old    |  [WCAG 2.0](https://www.w3.org/TR/WCAG20/)                                                                                                                                                |   
-|                 | WCAG 1.0     | May 1999      | Outdated     |  [WCAG 1.0] (https://www.w3.org/TR/WAI-WEBCONTENT/)                                                                                                                                                |  
+|                 | WCAG 1.0     | May 1999      | Outdated     |  [WCAG 1.0](https://www.w3.org/TR/WAI-WEBCONTENT/) |  
 
 
 <br><br>
