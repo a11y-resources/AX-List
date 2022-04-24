@@ -1,4 +1,4 @@
-# Short Introduction
+# Accessibility (AX) A11y in a nutshell
 Barrier-free web content is accessible to people with disabilities. Accessibility involves a wide range of disabilities:
 - visual
 - auditory
@@ -6,9 +6,9 @@ Barrier-free web content is accessible to people with disabilities. Accessibilit
 - speech
 - cognitive, language, learning, and neurological disabilities
 
-Combinations of these, as well as age-related limitations or temporary impediments such as glare from the sun or one-handed operation of a device, are also included.
+Combinations of these, as well as **age-related** limitations or **temporary** impediments such as glare from the sun or one-handed operation of a device, are also included.
 
-A11y stands for the 11 digits between the "a" and the "y". It is pronounced as "A-one-one-Y", "A-eleven-Y" or also freely spoken as "ally". <br><br>
+**A11y** stands for the *11 digits between the "a" and the "y"*. It is pronounced as "A-one-one-Y", "A-eleven-Y" or also freely spoken as "ally". <br><br>
 
 
 # Resources mentioned in my survey:
