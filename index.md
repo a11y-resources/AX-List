@@ -40,4 +40,4 @@ Combinations of these, as well as **age-related** limitations or **temporary** i
 
 
 <br><br>
-This will be a work in progress until End of August 2022. (Afterwards it will have "Last updated: DATE" when I add a new helpful ressource.)
+This page will be a work in progress until end of August 2022. (Afterwards it will have "Last updated: DATE" when I add a new helpful ressource.)
