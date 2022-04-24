@@ -19,9 +19,11 @@ Combinations of these, as well as **age-related** limitations or **temporary** i
 
 <br>
 
-## My personal recommendation for getting started in AX
+## My personal recommendation to learn about accessibility at the beginning
+- Read the ADG* Accessibility Developer Guide https://www.accessibility-developer-guide.com/ to get started <br>
+
+### Remember
 - Use semantic HTML
-- Read the ADG* Accessibility Developer Guide https://www.accessibility-developer-guide.com/ to get started
 - ARIA-Rule #1: Don’t use ARIA, use native HTML instead (cited from [deque Blog](https://www.deque.com/blog/top-5-rules-of-aria/#:~:text=Rule%20%231%3A%20Don't,in%20HTML%2C%20then%20use%20ARIA.), 24.04.22)
 - Make sure your content is accessible via keyboard
 
@@ -29,7 +31,7 @@ Combinations of these, as well as **age-related** limitations or **temporary** i
 <br>
 
 
-## WCAG Web Content Accessibility Guidelines: Version History
+## WCAG Web Content Accessibility Guidelines: Version History (24.04.22)
 
 
 |          | Version      | Introduction          | Status         | Comment        |   
@@ -37,7 +39,7 @@ Combinations of these, as well as **age-related** limitations or **temporary** i
 |                 | WCAG 3.0     | April 2022    | Draft   | [W3C Editor's Draft WCAG 3.0](https://w3c.github.io/silver/guidelines/)                                                                                   |    
 |                 | WCAG 3.0     | April 2022    | WIP     | [Silver Taskforce working on WCAG 3.0](https://w3c.github.io/silver/), [WCAG 3.0](https://www.w3.org/WAI/standards-guidelines/wcag/wcag3-intro/) |    
 |                 | WCAG 2.2     | May 2021      | Draft   | [W3C Working Draft WCAG 2.2](https://www.w3.org/TR/WCAG22/)                                                                                               |  
-| **recommended** | **WCAG 2.1** | **June 2018** | Current | [WCAG 2.1](https://www.w3.org/TR/WCAG21/)     |
+| **recommended** | **WCAG 2.1** | **June 2018** | **Current** | **[WCAG 2.1](https://www.w3.org/TR/WCAG21/)**     |
 |                 | WCAG 2.0     | December 2008 | Old    |  [WCAG 2.0](https://www.w3.org/TR/WCAG20/)                                                                                                                                                |   
 |                 | WCAG 1.0     | May 1999      | Outdated     |  [WCAG 1.0](https://www.w3.org/TR/WAI-WEBCONTENT/) |  
 
@@ -59,7 +61,13 @@ ___
 - Tools List https://www.w3.org/WAI/ER/tools/
 - WAI-Aria Web Accessibility Initiative – Accessible Rich Internet Applications https://www.w3.org/TR/wai-aria/
 
-## Swiss resources (Big contributor: <a href="https://www.access-for-all.ch/ch/">Access for All | Zugang für alle</a> )
+## Swiss resources
+
+Big contributors
+- [Access for All | Zugang für alle](https://www.access-for-all.ch/ch/)
+- [Eidgenössische Büro für die Gleichstellung von Menschen mit Behinderungen EBGB: E-Accessibility](https://www.edi.admin.ch/edi/de/home/fachstellen/ebgb/themen-der-gleichstellung/e-accessibility-.html)
+
+### General Information
 - Official: eCH-0059 Schweizer Accessibility Standard http://ech.ch/de/standards/60476 
 - ADG* Accessibility Developer Guide https://www.accessibility-developer-guide.com/ 
 
@@ -68,7 +76,7 @@ ___
 - Schweizer Accessibility-Checklist 2.1 https://a11y.digitaldialog.swiss/ (*Vorabversion/Alpha) 
 - Accessibility Checklist 2.0 https://www.accessibility-checklist.ch/ (*Content last updated 19.06.2010) 
 
-## Other helpful resources
+## Great international resources about accessibility
 - mdn web docs about accessibility https://developer.mozilla.org/en-US/docs/Web/Accessibility 
 - German accessibility test tools list / Werkzeugliste der deutschen **B**arrierefreie-**I**nformations**t**echnik-**V**erordnung (BITV) https://www.bitvtest.de/bitv_test/das_testverfahren_im_detail/werkzeugliste.html 
 - WebAIM Quickref about Web Accessibility Principles https://webaim.org/resources/quickref/ 
