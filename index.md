@@ -5,7 +5,7 @@ Barrier-free web content is accessible to people with disabilities. Accessibilit
 
 Combinations of these, as well as **age-related** limitations or **temporary** impediments such as glare from the sun or one-handed operation of a device, are also included.
 
-**A11y** stands for the *11 digits between the "a" and the "y"*. It is pronounced as "A-one-one-Y", "A-eleven-Y" or also freely spoken as "ally". <br>
+**A11y** is used as an acronym for accessibility and stands for the *11 digits between the "a" and the "y"*. It is pronounced as "A-one-one-Y", "A-eleven-Y" or also freely spoken as "ally". <br>
 
 ## Four Principles of WCAG 2 (POUR)
 (cited from [WebAIM](https://webaim.org/resources/quickref/), 24.04.22)
