@@ -1,7 +1,7 @@
-# Accessibility AX A11y - in a nutshell
+# Accessibility (AX) - A11y: In a nutshell
 Barrier-free web content is accessible to people with disabilities. Accessibility involves a wide range of disabilities:
-- Physical: visual, auditory, motor, speech
-- Mental: cognitive, language, learning, and neurological disabilities
+- Physical: Visual, auditory, motor, speech
+- Mental: Cognitive, language, learning, and neurological disabilities
 
 Combinations of these, as well as **age-related** limitations or **temporary** impediments such as glare from the sun or one-handed operation of a device, are also included.
 
